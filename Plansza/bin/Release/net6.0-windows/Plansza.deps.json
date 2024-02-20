@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Plansza/1.0.0": {
+        "dependencies": {
+          "SzachBib": "1.0.0"
+        },
+        "runtime": {
+          "Plansza.dll": {}
+        }
+      },
+      "SzachBib/1.0.0": {
+        "runtime": {
+          "SzachBib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plansza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SzachBib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
