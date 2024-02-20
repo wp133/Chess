@@ -1,0 +1,7 @@
+C:\Users\wiwow\Desktop\2\3E-Win\Szachyyyy\Plansza\bin\Release\net6.0-windows\publish\Plansza.exe
+C:\Users\wiwow\Desktop\2\3E-Win\Szachyyyy\Plansza\bin\Release\net6.0-windows\publish\Plansza.dll
+C:\Users\wiwow\Desktop\2\3E-Win\Szachyyyy\Plansza\bin\Release\net6.0-windows\publish\Plansza.deps.json
+C:\Users\wiwow\Desktop\2\3E-Win\Szachyyyy\Plansza\bin\Release\net6.0-windows\publish\Plansza.runtimeconfig.json
+C:\Users\wiwow\Desktop\2\3E-Win\Szachyyyy\Plansza\bin\Release\net6.0-windows\publish\Plansza.pdb
+C:\Users\wiwow\Desktop\2\3E-Win\Szachyyyy\Plansza\bin\Release\net6.0-windows\publish\SzachBib.dll
+C:\Users\wiwow\Desktop\2\3E-Win\Szachyyyy\Plansza\bin\Release\net6.0-windows\publish\SzachBib.pdb
